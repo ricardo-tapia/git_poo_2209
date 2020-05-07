@@ -1,6 +1,6 @@
-#Mi primer repositorio en Github
+# Mi primer repositorio en Github
 
-##José Ricardo Machuca Tapia
+## JosÃ© Ricardo Machuca Tapia
 
 - Elem 1
 - Elemn 2
